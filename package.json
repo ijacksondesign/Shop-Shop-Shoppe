@@ -11,6 +11,10 @@
     "seed": "cd server && npm run seed",
     "heroku-postbuild": "cd client && npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijacksondesign/Shop-Shop-Shoppe.git"
+  },
   "author": "Ian Jackson",
   "license": "ISC",
   "dependencies": {
