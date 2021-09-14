@@ -1,5 +1,5 @@
 {
-  "name": "mern-shopping",
+  "name": "shop-shop-shoppe",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ijacksondesign/Shop-Shop-Shoppe.git"
+    "url": "git+https://github.com/ijacksondesign/shop-shop-shoppe.git"
   },
   "author": "Ian Jackson",
   "license": "ISC",
